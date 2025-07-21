@@ -55,7 +55,7 @@ Example natural language prompts are converted to subject/body using simple keyw
     GMAIL_USER=your.email@gmail.com
     GMAIL_APP_PASSWORD=your_app_password
     ```
-
+   get from google cloud console , set app password and copy and paste it in an env
 4. **Run the MCP server:**
     ```bash
     python gmail_tool.py
