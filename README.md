@@ -1,7 +1,7 @@
 # Mail Sender MCP Small
 
 A Python tool for drafting and sending emails through Gmail, supporting both direct sending and prompt-based email generation. The tool is designed for easy integration with the MCP (Modular Command Platform) framework and supports attachments, CC/BCC, and HTML email content.
-
+      
 ## Features
 
 - **Draft and Send Emails via Gmail:**  
